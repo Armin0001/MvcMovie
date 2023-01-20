@@ -4,5 +4,5 @@ Reference to this project: https://learn.microsoft.com/en-us/aspnet/core/tutoria
 
 What I've done is I've followed the official Microsoft tutorial for MVC and made this app. 
 
-So, the application works, the user can create, edit, view and delete movies.
+Some of the functionallity is that the user can create, edit, view and delete movies.
 
